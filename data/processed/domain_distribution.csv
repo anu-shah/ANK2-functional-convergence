@@ -1,0 +1,17 @@
+group,category,count,total_variants,percentage
+ASD,ANK_repeats,6,11,54.5
+ASD,ZU5,4,11,36.4
+ASD,UPA,1,11,9.1
+ASD,Death_domain,0,11,0.0
+ASD,Repeat_rich,0,11,0.0
+ASD,Disordered,0,11,0.0
+ASD,Other,0,11,0.0
+ASD,Unassigned,0,11,0.0
+Cardiac,ANK_repeats,0,9,0.0
+Cardiac,ZU5,1,9,11.1
+Cardiac,UPA,1,9,11.1
+Cardiac,Death_domain,0,9,0.0
+Cardiac,Repeat_rich,0,9,0.0
+Cardiac,Disordered,2,9,22.2
+Cardiac,Other,0,9,0.0
+Cardiac,Unassigned,5,9,55.6

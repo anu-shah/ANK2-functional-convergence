@@ -1,0 +1,24 @@
+structure_id,chain,q01484_start,q01484_end,method,resolution_A,interacting_partner,evidence_type,structure_source,uniprot_accession,isoform,fragment,model_version,model_quality,notes,access_date
+4D8O,A,966,1210,X-RAY DIFFRACTION,2.2,none,experimental,PDB,Q01484 (canonical),canonical,,,,ZU5-ZU5-UPA-DD tandem,2026-09-16
+4D8O,A,1253,1568,X-RAY DIFFRACTION,2.2,none,experimental,PDB,Q01484 (canonical),canonical,,,,ZU5-ZU5-UPA-DD tandem cont.,2026-09-16
+4RLV,A,28,873,X-RAY DIFFRACTION,3.49,AnkR autoinhibition segment,experimental,PDB,Q01484 (canonical),canonical,,,,24 ANK repeats R1-R24,2026-09-16
+4RLY,A,28,318,X-RAY DIFFRACTION,2.5,Nav1.2 ankyrin-binding domain,experimental,PDB,Q01484 (canonical),canonical,,,,ANK repeats R1-R9,2026-09-16
+5Y4D,A,28,693,X-RAY DIFFRACTION,3.3,AnkR/AnkB chimeric autoinhibition segment,experimental,PDB,Q01484 (canonical),canonical,,,,24 ANK repeats R1-R24,2026-09-16
+5Y4D,A,3707,3718,X-RAY DIFFRACTION,3.3,AnkR/AnkB chimeric autoinhibition segment,experimental,PDB,Q01484 (canonical),canonical,,,,C-terminal ANK2 fragment,2026-09-16
+5Y4E,A,264,483,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,experimental,PDB,Q01484 (canonical),canonical,,,,ANK repeats R8-R14,2026-09-16
+5Y4E,A,857,896,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,experimental,PDB,Q01484 (canonical),canonical,,,,AI-b peptide,2026-09-16
+5Y4E,B,264,483,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,experimental,PDB,Q01484 (canonical),canonical,,,,ANK repeats R8-R14 (chain B),2026-09-16
+5Y4E,B,857,896,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,experimental,PDB,Q01484 (canonical),canonical,,,,AI-b peptide (chain B),2026-09-16
+5Y4F,A,430,873,X-RAY DIFFRACTION,1.95,none (ANK2 only),experimental,PDB,Q01484 (canonical),canonical,,,,ANK repeats R13-R24,2026-09-16
+5Y4F,B,430,873,X-RAY DIFFRACTION,1.95,none (ANK2 only),experimental,PDB,Q01484 (canonical),canonical,,,,ANK repeats R13-R24 (chain B),2026-09-16
+5YIR,C,1588,1614,X-RAY DIFFRACTION,2.75,GABARAP,experimental,PDB,Q01484 (canonical),canonical,,,,LIR motif,2026-09-16
+5YIR,G,1588,1614,X-RAY DIFFRACTION,2.75,GABARAP,experimental,PDB,Q01484 (canonical),canonical,,,,LIR motif,2026-09-16
+5YIR,H,1588,1614,X-RAY DIFFRACTION,2.75,GABARAP,experimental,PDB,Q01484 (canonical),canonical,,,,LIR motif,2026-09-16
+5YIS,C,1588,1614,X-RAY DIFFRACTION,2.2,LC3B (MAP1LC3B),experimental,PDB,Q01484 (canonical),canonical,,,,LIR motif,2026-09-16
+5YIS,D,1588,1614,X-RAY DIFFRACTION,2.2,LC3B (MAP1LC3B),experimental,PDB,Q01484 (canonical),canonical,,,,LIR motif,2026-09-16
+6KZJ,A,1499,1570,X-RAY DIFFRACTION,1.5,NDEL1,experimental,PDB,Q01484 (canonical),canonical,,,,DD domain region,2026-09-16
+6M3Q,E,951,1458,X-RAY DIFFRACTION,3.44,βIV-spectrin (SPTBN4),experimental,PDB,Q01484 (canonical),canonical,,,,ZU5-ZU5-UPA-DD tandem,2026-09-16
+AF-Q01484-2-F1,A,1,1872,AlphaFold Monomer v2.0,,none (monomer prediction),predicted_isoform,AlphaFold DB,Q01484-2,"Q01484-2 (isoform 2, long brain isoform)",F1,v6,"pLDDT: 39.8% VH, 20.9% C, 7.5% L, 31.7% VL",pLDDT bins (AlphaFold DB): Very high >=90; Confident 70-89; Low 50-69; Very low <50. Predicted-high = VH+C (60.7%); predicted-low = L+VL (39.2%). Isoform-specific model (Q01484-2); NOT canonical Q01484 coverage. Covers isoform-2 residues 1-1872. No AlphaFold model exists for canonical Q01484.,2026-09-16
+AF-Q01484-5-F1,A,1,1863,AlphaFold Monomer v2.0,,none (monomer prediction),predicted_isoform,AlphaFold DB,Q01484-5,Q01484-5 (isoform 5),F1,v6,"pLDDT: 39.5% VH, 23.2% C, 6.5% L, 30.8% VL",pLDDT bins (AlphaFold DB): Very high >=90; Confident 70-89; Low 50-69; Very low <50. Predicted-high = VH+C (62.7%); predicted-low = L+VL (37.3%). Isoform-specific model (Q01484-5); NOT canonical Q01484 coverage. Covers isoform-5 residues 1-1863.,2026-09-16
+AF-Q01484-7-F1,A,1,555,AlphaFold Monomer v2.0,,none (monomer prediction),predicted_isoform,AlphaFold DB,Q01484-7,Q01484-7 (isoform 7),F1,v6,"pLDDT: 23.1% VH, 19.3% C, 12.6% L, 45.0% VL",pLDDT bins (AlphaFold DB): Very high >=90; Confident 70-89; Low 50-69; Very low <50. Predicted-high = VH+C (42.4%); predicted-low = L+VL (57.6%). Isoform-specific model (Q01484-7); NOT canonical Q01484 coverage. Covers isoform-7 residues 1-555.,2026-09-16
+NONE,,1873,3957,,,,no_identified_structure,AlphaFold DB / PDB (verified),Q01484 (canonical),canonical,,,,No experimental structure and no AlphaFold prediction identified for canonical Q01484 residues 1873-3957. Absence of model does not imply absence of structure.,2026-09-16

@@ -1,0 +1,10 @@
+clinvar_variation_id,vcv_accession,hgvs_protein,protein_position,transcript,variant_type,clinical_condition,clinical_significance,review_status,rcv_accession,last_evaluated,source,access_date,notes
+4732021,VCV004732021,(p.Ala1405fs),1405,NM_001148.6,frameshift,Long QT syndrome,Pathogenic (1),"criteria provided, single submitter",RCV006525293.1,"Jul 21, 2025",ClinVar,2026-09-16,
+4725226,VCV004725226,(p.Glu3525Ter),3525,NM_001148.6,nonsense,Long QT syndrome,Pathogenic (1),"criteria provided, single submitter",RCV006518836.1,"Aug 11, 2025",ClinVar,2026-09-16,
+4721538,VCV004721538,(p.Gln3076Ter),3076,NM_001148.6,nonsense,Long QT syndrome,Pathogenic (1),"criteria provided, single submitter",RCV006507869.1,"Jun 16, 2025",ClinVar,2026-09-16,
+4708265,VCV004708265,(p.Glu1091fs),1091,NM_001148.6,frameshift,Long QT syndrome,Pathogenic (1),"criteria provided, single submitter",RCV006509482.1,"Jul 15, 2025",ClinVar,2026-09-16,
+4278327,VCV004278327,(p.Ser3713Ala),3713,NM_001148.6,missense,"Cardiac arrhythmia, ankyrin-B-related",Likely pathogenic (1),"criteria provided, single submitter",RCV005859910.1,"Sep 10, 2025",ClinVar,2026-09-16,
+4097146,VCV004097146,(p.Arg3113Ter),3113,NM_001148.6,nonsense,Cardiovascular phenotype,Pathogenic (3),"criteria provided, multiple submitters, no conflicts",RCV005667565.1,"Nov 09, 2025",ClinVar,2026-09-16,
+3897593,VCV003897593,(p.Lys1631fs),1631,NM_001148.6,frameshift,"Cardiac arrhythmia, ankyrin-B-related",Likely pathogenic (1),"criteria provided, single submitter",RCV005411014.1,"Jan 11, 2024",ClinVar,2026-09-16,
+3729667,VCV003729667,(p.Asp3081fs),3081,NM_001148.6,frameshift,Long QT syndrome,Pathogenic (1),"criteria provided, single submitter",RCV005207717.2,"Apr 8, 2025",ClinVar,2026-09-16,
+3721367,VCV003721367,,,NM_001148.6,splice,Long QT syndrome,Likely pathogenic (1),"criteria provided, single submitter",RCV005203216.2,"Feb 3, 2025",ClinVar,2026-09-16,

@@ -1,0 +1,5 @@
+dataset,ank2_region_or_category,confidence,primary_feature,n_interactors,denominator,pct_of_denominator,interactors
+mapped interactor domain distribution,Interaction with SPTBN1 (spectrin-binding region 966-1125),high,"ZU5 1 (968-1156)",1,explicitly localized interactors (n=2),50.0,SPTBN1
+mapped interactor domain distribution,ANK repeats 11-14 (membrane-binding domain site-3),medium,"ANK 11-14 (Step-3 coords 364-492)",1,explicitly localized interactors (n=2),50.0,L1CAM
+summary,Explicitly localized interactors (total),-,-,2,ANK2_Union members (N=158),1.3,"SPTBN1; L1CAM"
+summary,No explicit ANK2 localization (not_mappable; not assigned to any domain),not_mappable,-,156,ANK2_Union members (N=158),98.7,156 genes (see ank2_ppi_domain_assignments.csv)

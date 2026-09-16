@@ -1,0 +1,20 @@
+PDB_ID,ANK2_present,chain,Q01484_residue_start,Q01484_residue_end,method,resolution,interacting_partner,construct_type,notes
+4D8O,A,966,1210,X-RAY DIFFRACTION,2.2,none (isolated tandem),ANK2_fragment,ZU5-ZU5-UPA-DD tandem; PDB 966-1210,2026-09-16
+4D8O,A,1253,1568,X-RAY DIFFRACTION,2.2,none (isolated tandem),ANK2_fragment,ZU5-ZU5-UPA-DD tandem cont.; PDB 1220-1535; gap in UniProt 1210-1253,2026-09-16
+4RLV,A,28,873,X-RAY DIFFRACTION,3.49,AnkR autoinhibition segment (ANK1),ANK2_chimeric_construct,24 ANK repeats R1-R24; chimeric mouse/human; AnkR peptide PDB 1577-1624,2026-09-16
+4RLY,A,28,318,X-RAY DIFFRACTION,2.5,Nav1.2 ankyrin-binding domain,ANK2_chimeric_construct,ANK repeats R1-R9; chimeric with Nav1.2 peptide,2026-09-16
+5Y4D,A,28,693,X-RAY DIFFRACTION,3.3,AnkR/AnkB chimeric autoinhibition segment,ANK2_chimeric_construct,24 ANK repeats R1-R24; chimeric with AnkR peptide,2026-09-16
+5Y4D,A,3707,3718,X-RAY DIFFRACTION,3.3,AnkR/AnkB chimeric autoinhibition segment,ANK2_chimeric_construct,C-terminal ANK2 fragment (12 aa); same chain,2026-09-16
+5Y4E,A,264,483,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,ANK2_chimeric_construct,ANK repeats R8-R14; AI-b peptide same chain (Q01484 857-896),2026-09-16
+5Y4E,A,857,896,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,ANK2_chimeric_construct,AI-b peptide (40 aa); same chain as repeats,2026-09-16
+5Y4E,B,264,483,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,ANK2_chimeric_construct,ANK repeats R8-R14; chain B replicate,2026-09-16
+5Y4E,B,857,896,X-RAY DIFFRACTION,2.34,autoinhibition segment AI-b,ANK2_chimeric_construct,AI-b peptide; chain B replicate,2026-09-16
+5Y4F,A,430,873,X-RAY DIFFRACTION,1.95,none (ANK2 only),ANK2_fragment,ANK repeats R13-R24; only ANK2 in chain A per DBREF,2026-09-16
+5Y4F,B,430,873,X-RAY DIFFRACTION,1.95,none (ANK2 only),ANK2_fragment,ANK repeats R13-R24; chain B replicate,2026-09-16
+5YIR,C,1588,1614,X-RAY DIFFRACTION,2.75,GABARAP,ANK2_peptide/motif,"LIR motif (27 aa); chains C,G,H identical",2026-09-16
+5YIR,G,1588,1614,X-RAY DIFFRACTION,2.75,GABARAP,ANK2_peptide/motif,LIR motif (27 aa),2026-09-16
+5YIR,H,1588,1614,X-RAY DIFFRACTION,2.75,GABARAP,ANK2_peptide/motif,LIR motif (27 aa),2026-09-16
+5YIS,C,1588,1614,X-RAY DIFFRACTION,2.2,LC3B (MAP1LC3B),ANK2_peptide/motif,"LIR motif (27 aa); chains C,D identical",2026-09-16
+5YIS,D,1588,1614,X-RAY DIFFRACTION,2.2,LC3B (MAP1LC3B),ANK2_peptide/motif,LIR motif (27 aa),2026-09-16
+6KZJ,A,1499,1570,X-RAY DIFFRACTION,1.5,NDEL1,ANK2_fragment,"DD domain region; NDEL1 on chains B,C",2026-09-16
+6M3Q,E,951,1458,X-RAY DIFFRACTION,3.44,βIV-spectrin (SPTBN4),ANK2_fragment,ZU5-ZU5-UPA-DD tandem; βIV-spectrin on chain F,2026-09-16

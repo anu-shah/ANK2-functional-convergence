@@ -1,0 +1,11 @@
+# Source downloads (large; kept locally, not versioned)
+Demontis_2025_*.pdf
+Demontis_2025_*.xlsx
+
+# Session / tooling artifacts
+session-*.md
+*.rpm
+*.rpm.part
+
+# AI chat exports
+ChatGPT - *.md

@@ -1,0 +1,12 @@
+hgvs_p,position,variant_type,source,original_notation,hgvs_c,transcript,notes,protein_consequence
+p.Ala368Gly,368,missense,Chirasani_2025_PMC12681835,AnkB A368G,,NM_001148.6 (inferred),Maternally inherited; disrupts NrCAM binding; ANK repeat 11,
+p.Arg977Gln,977,missense,Chirasani_2025_PMC12681835,AnkB R977Q,,NM_001148.6 (inferred),Maternally inherited; disrupts beta2-spectrin binding; ZU5A subdomain; reduced stability,
+p.Ala373Val,373,missense,Chirasani_2025_PMC12681835,AnkB A373V,,NM_001148.6 (inferred),Maternally inherited; ANK repeat 11; increased NrCAM binding affinity (~1.7x WT; p=0.02),
+p.Ala525Val,525,missense,Chirasani_2025_PMC12681835,AnkB A525V,,NM_001148.6 (inferred),Maternally inherited; ANK repeat 15; assayed but not disruptive,
+p.Glu819Lys,819,missense,Chirasani_2025_PMC12681835,AnkB E819K,,NM_001148.6 (inferred),Maternally inherited; ANK repeat 24; assayed but not disruptive,
+p.Ile807Met,807,missense,Chirasani_2025_PMC12681835,AnkB I807M,,NM_001148.6 (inferred),De novo; ANK repeat 24; assayed but not disruptive,
+p.Pro1380Arg,1380,missense,Chirasani_2025_PMC12681835,AnkB P1380R,,NM_001148.6 (inferred),De novo; UPA region per paper; not impaired for beta2-spectrin binding; reduced stability (~60% WT),
+NP_001139.3:p.Arg1003*,1003,nonsense,Zhao_2025_PMC11877552,ANK2 (NM_001148.6):c.3007C>T/p.R1003*,NM_001148.6:c.3007C>T,NM_001148.6,Novel nonsense; exon 27; ASD + epilepsy patient,
+p.(Asn63_Lys95del),63-95,splice_site,Guissart_2023_ClinGenet,c.285+1G>T (NM_001148.6),NM_001148.6:c.285+1G>T,NM_001148.6,De novo splice donor; predicted exon 3 skipping; in-frame del of 33aa in ANK repeats,p.(Asn63_Lys95del)
+NP_001139.3:p.Arg1138*,1138,nonsense,Morais_2023_EgyptJMedHumGenet,c.3412C>T/p.Arg1138* (NM_001148.6),NM_001148.6:c.3412C>T,NM_001148.6,De novo nonsense; 7yo female with ASD + epilepsy,
+p.Arg987Trp,987,missense,Garotti_2025_EurJMedGenet,p.Arg987Trp,,NM_001148.6 (inferred),Familial missense; inherited from father; high-functioning ASD,
