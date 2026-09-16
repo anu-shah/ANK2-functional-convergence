@@ -6,7 +6,7 @@ Protocol: `PROTOCOL.md` v2.0 (frozen 2026-09-15). Companion evidence: `docs/fina
 
 ## Background
 
-ANK2 (ankyrin-2, UniProt Q01484, 3957 residues) is a scaffolding protein with well-characterized cardiac and neuronal roles. Rare ANK2 variants are enriched in both autism spectrum disorder (ASD) and ADHD. In the Demontis et al. 2025 ADHD rare-variant exome study, ANK2 is an exome-wide-significant ADHD risk gene and also carries ASD/NDD risk-gene flags, making it a natural probe for whether a gene's ADHD mechanism aligns with its cardiac (excitability) or autism (cytoskeletal/synaptic) biology.
+ANK2 (ankyrin-2, UniProt Q01484, 3957 residues) is a scaffolding protein with well-characterized cardiac and neuronal roles. Rare ANK2 variation has been implicated in both autism spectrum disorder (ASD) and ADHD, although the available ADHD evidence in this project is gene-level rather than coordinate-resolved. In the Demontis et al. 2025 ADHD rare-variant exome study, ANK2 is an exome-wide-significant ADHD risk gene and also carries ASD/NDD risk-gene flags, making it a natural probe for whether a gene's ADHD mechanism aligns with its cardiac (excitability) or autism (cytoskeletal/synaptic) biology.
 
 ## Research question
 
@@ -30,7 +30,7 @@ Does the functional evidence for ANK2's ADHD association localize to an ANK2 dom
 - **ADHD genetic (gene-level):** ANK2 exome-wide-significant ADHD burden — P(final) = 2.273e-6 (main text 2.72e-6), OR(combined class I) = 5.55, pLI = 1.0. Class I: 11 cases / 12 controls (P = 1.204e-4); Class II: 3 cases / 0 controls (P = 2.858e-3). ASD_FDR0.05 = 1; NDD_FDR0.05 = 1. 7 top-20 risk genes overlap the DisGeNET Channelopathies set (corrected P = 2.43e-4; ANK2 among the 4 overlapping genes).
 - **ADHD PPI (network-level):** ANK2_Union (158 genes) enriched for actin cytoskeleton (P = 2.77e-39), cell junctions (P = 1.17e-30), synapse (P = 1.52e-29), actin binding (P = 6.79e-28); overlap with ASD/DD rare-variant risk genes (ASD KS P = 7.926e-7; DD P = 1e-15).
 - **ASD variant localization:** 6/11 in the ankyrin-repeat array, 4/11 in ZU5 1, 1/11 UPA (exploratory Fisher ANK-vs-non-ANK P = 0.0141; does not survive Bonferroni across 5 tested categories — α = 0.010; rate-per-residue density is highest in ZU5 1, not ANK repeats — reported, not over-claimed).
-- **Cardiac variant localization:** sparse — ZU5 1 (n=1), UPA (n=1), Disordered (n=2), 5/9 unassigned (feature map does not cover those residues; not retrospectively assigned). 7/9 are truncation-type.
+- **Cardiac variant localization:** sparse — ZU5 1 (n=1), UPA (n=1), Disordered (n=2), 5/9 unassigned (feature map does not cover those residues; not retrospectively assigned). 7/9 are nonsense, frameshift, or splice-site variants (3 nonsense, 3 frameshift, 1 splice-site).
 - **Within-ANK2 PPI localization:** 2/158 interactors (SPTBN1, L1CAM). **No ADHD variant has coordinates; therefore no ADHD domain distribution exists.**
 
 ## Limitations
