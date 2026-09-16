@@ -14,6 +14,8 @@ Does the functional evidence for ANK2's ADHD association localize to an ANK2 dom
 
 ## Methods (Steps 1–10 of PROTOCOL.md)
 
+- **Step 1 — Setup:** reproducible repo layout (folders, PROTOCOL.md, requirements.txt, docs/decisions.md); first commit.
+- **Step 2 — Reference transcript/protein:** MANE Select transcript confirmed (NM_001148.6); canonical UniProt Q01484 (3957 residues) established as coordinate system → `data/metadata/ank2_reference.md`.
 - **Step 3 — Domain map:** UniProt Q01484 features (ANK repeats 1–24, ZU5 1/2, UPA, Death domains, Repeat-rich, Disordered regions), cross-checked against PROSITE/ProRule evidence; 59/59 rows verified against live UniProt (2026-09-16).
 - **Step 4 — Structure coverage:** RCSB PDB (10/10 verified) and AlphaFold DB (isoform-only models; no canonical Q01484 model) → `data/metadata/structure_coverage.csv`.
 - **Step 5 — ASD variants:** 11 curated variants from verified primary literature (Chirasani 2025 JBC, Zhao 2025, Guissart 2023, Morais 2023, Garotti 2025); 4 transcription errors corrected and logged.
